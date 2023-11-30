@@ -58,7 +58,7 @@ a) Animal speaks
 b) Dog barks
 c) Semmi, hiba lép fel
 d) A kód nem fut le
-Válasz: b)
+Válasz: c)
 
 
 7. Melyik NEM egy valós Python adattípus?
